@@ -1,2 +1,2 @@
 # KodlamaIOWeekOne
-Only week one for now
+Week One and Two Assignments
