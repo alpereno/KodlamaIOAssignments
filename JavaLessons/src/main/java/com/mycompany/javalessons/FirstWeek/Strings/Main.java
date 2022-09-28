@@ -1,4 +1,4 @@
-package com.mycompany.javalessons.Strings;
+package com.mycompany.javalessons.FirstWeek.Strings;
 
 public class Main {
     public static void main(String[] args) {

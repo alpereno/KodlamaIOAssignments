@@ -1,4 +1,4 @@
-package com.mycompany.javalessons.MiniProjects;
+package com.mycompany.javalessons.FirstWeek.MiniProjects;
 
 public class FriendlyNumbers {
     public static void main(String[] args) {

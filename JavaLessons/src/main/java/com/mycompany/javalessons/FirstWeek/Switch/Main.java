@@ -1,4 +1,4 @@
-package com.mycompany.javalessons.Switch;
+package com.mycompany.javalessons.FirstWeek.Switch;
 
 public class Main {
     public static void main(String[] args) {

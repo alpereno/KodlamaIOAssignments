@@ -1,4 +1,4 @@
-package com.mycompany.javalessons.Arrays;
+package com.mycompany.javalessons.FirstWeek.Arrays;
 
 public class Main {
     public static void main(String[] args) {
@@ -51,5 +51,5 @@ public class Main {
             }
             System.out.println("------------------");
         }
-    }
+    }   
 }
